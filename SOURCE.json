@@ -1,0 +1,19 @@
+{
+  "publication_kind": "official-archive-import",
+  "imported_at": "2026-11-02",
+  "evidence": "https://xiongyingfei.github.io/SA/2020/main.htm",
+  "archives": [
+    {
+      "directory": "project1",
+      "url": "https://xiongyingfei.github.io/SA/2019/course_project_1.zip",
+      "sha256": "11b736dfe1d5f3af7ff23dd68b9547abe16fd17581f24d7ead7669b64dae80c7",
+      "bytes": 50950487
+    },
+    {
+      "directory": "project2",
+      "url": "https://xiongyingfei.github.io/SA/2020/course_project_2.zip",
+      "sha256": "d4bab6ef0e8fe255583dc6e6e5db2d8f017a70835fed4c9a880e8a31a20636e5",
+      "bytes": 183213
+    }
+  ]
+}
